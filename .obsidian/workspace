@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/3.计算机系统/概况.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/3.计算机系统/概况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "003e445b7aea51a6",
   "lastOpenFiles": [
+    "docs/3.计算机系统/概况.md",
+    "docs/2.课程笔记/概况.md",
+    "docs/1.书籍笔记/概况.md",
     "docs/index.md",
-    "docs/计算机工程/数据库系统/概况.md",
-    "docs/计算机工程/计算机网络/概况.md",
-    "docs/计算机工程/分布式系统/概况.md",
-    "docs/计算机系统/体系结构/概况.md",
-    "docs/计算机系统/操作系统/概况.md",
-    "docs/计算机系统/编译原理/概况.md",
-    "docs/计算机工程/概况.md",
-    "docs/计算机系统/概况.md",
-    "docs/课程笔记/概况.md"
+    "docs/4.计算机工程/数据库系统/概况.md",
+    "docs/4.计算机工程/计算机网络/概况.md",
+    "docs/4.计算机工程/分布式系统/概况.md",
+    "docs/3.计算机系统/体系结构/概况.md",
+    "docs/3.计算机系统/操作系统/概况.md",
+    "docs/3.计算机系统/编译原理/概况.md"
   ]
 }
