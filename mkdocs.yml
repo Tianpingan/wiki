@@ -1,15 +1,22 @@
-site_name: My Docs
-theme:
-  name: material  
-  palette:
-    primary: 'white'
-    accent: 'red'
-  # include_search_page: false
-  # search_index_only: true
-  # favicon: 'favicon.ico'
+site_name: Tian's wiki
+site_url: https://tianpingan.github.io/wiki/
+site_author: Tianpingan
+site_description: >-
+  Tianpingan的wiki页面
+# repo_name: wiki
+# repo_url: https://github.com/tianpingan/wiki/
 
-  # logo:
-    # icon: 'school'
+# copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
+theme:
+  name: material
+  language: zh
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
   features:
     - header.autohide
     # - navigation.instant
@@ -25,90 +32,26 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
-  font:
-    text: 'Fira Sans'
-    code: 'Fira Mono'
-extra_javascript:
-  # - javascripts/baidu-tongji.js  #百度统计
-  # - javascripts/mathjax.js  #数学公式的JS
-# markdown_extensions:
-  # - pymdownx.arithmatex: # 数学公式latex支持
-    # generic: true
-# # Theme
-# theme:
-#   name: null
-#   custom_dir: 'mkdocs-material/material'
-#   static_templates:
-#     - 404.html
-#   language: 'zh'
-#   palette:
-#     primary: 'white'
-#     accent: 'red'
-#   include_search_page: false
-#   search_index_only: true
-#   favicon: 'favicon.ico'
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      # primary: light blue
+      primary: Blue grey
+      # accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: Blue grey
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 
-#   logo:
-#     icon: 'school'
-#   feature:
-#     tabs: true
-#   font:
-#     text: 'Fira Sans'
-#     code: 'Fira Mono'
-
-# # nav:
-# #   - 介绍: index.md
-# #   - 安装:
-# #       - 本地环境搭建: install/local.md
-# #       - 发布至GitHub Pages: install/github-pages.md
-# #       - 发布至自己的HTTP Server: install/http-server.md
-# #   - 语法:
-# #       - 语法总览: syntax/main.md
-# #       - 标题: syntax/headline.md
-# #       - 段落: syntax/paragraph.md
-# #       - 测试:
-# #         - 测试1:syntax/paragraph.md
-
-
-# site_name: XXX 使用文档
-
-# theme:
-#   name: material
-#   language: zh
-#   # 网站左上角显示的logo
-#   logo: images/logo.jpg
-#   # 网站图标
-#   favicon: images/favicon.ico
-#   features:
-#     - navigation.instant
-#     - navigation.tabs
-#     - navigation.sections
-#     - navigation.expand
-#     - navigation.top
-#   palette:
-#     - media: "(prefers-color-scheme: light)"
-#       scheme: default
-#       primary: indigo
-#       accent: red
-#       toggle:
-#         icon: material/toggle-switch-off-outline
-#         name: Switch to dark mode
-#     # 深色模式
-#     - media: "(prefers-color-scheme: dark)"
-#       scheme: slate
-#       primary: deep orange
-#       accent: red
-#       toggle:
-#         icon: material/toggle-switch
-#         name: Switch to light mode
-# extra_css:
-#   - stylesheets/extra.css
-# markdown_extensions:
-#   - attr_list
-# copyright: Copyright © 2021 XXX
-# extra:
-#   # 右下角的超链接
-#   social:
-#     - icon: fontawesome/brands/github
-#       link: #
-#       name: github
+plugins:
+  - search:
+      lang: ja
+  # - git-revision-date-localized
+  # - minify:
+      # minify_html: true

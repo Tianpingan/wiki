@@ -78,21 +78,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ffe9d7855647fd2a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "003e445b7aea51a6",
   "lastOpenFiles": [
     "docs/index.md",
-    "docs/计算机工程/计算机工程-概况.md",
-    "docs/计算机系统/计算机系统-概况.md",
-    "docs/课程笔记/课程笔记-概况.md",
-    "docs/计算机基础/体系结构/re.md",
-    "docs/书籍笔记/书籍笔记-概况.md"
+    "docs/计算机工程/数据库系统/概况.md",
+    "docs/计算机工程/计算机网络/概况.md",
+    "docs/计算机工程/分布式系统/概况.md",
+    "docs/计算机系统/体系结构/概况.md",
+    "docs/计算机系统/操作系统/概况.md",
+    "docs/计算机系统/编译原理/概况.md",
+    "docs/计算机工程/概况.md",
+    "docs/计算机系统/概况.md",
+    "docs/课程笔记/概况.md"
   ]
 }
