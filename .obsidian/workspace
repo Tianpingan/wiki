@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e6e82a4307a90ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "003e445b7aea51a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4c6e877f649c6c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d7ecf3621d6cc9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6526a26e81060992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18dd900de75056a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a5a34ce309d328d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d2323c76e3019f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c048c95a6a19166a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "003e445b7aea51a6",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "docs/计算机工程/计算机工程-概况.md",
+    "docs/计算机系统/计算机系统-概况.md",
+    "docs/课程笔记/课程笔记-概况.md",
+    "docs/计算机基础/体系结构/re.md",
+    "docs/书籍笔记/书籍笔记-概况.md"
+  ]
+}
