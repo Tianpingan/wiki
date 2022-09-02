@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a5a34ce309d328d",
@@ -99,9 +98,9 @@
   "active": "ab915ed3278744d2",
   "lastOpenFiles": [
     "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
-    "img/Pasted image 20220902200839.png",
+    "docs/img/Pasted image 20220902200839.png",
     "docs/1-课程笔记/网络编程/概述.md",
-    "img/Pasted image 20220902200812.png",
+    "docs/img/Pasted image 20220902200812.png",
     "docs/2-书籍笔记/CSAPP/ch11：网络编程.md",
     "Pasted image 20220828220004.png",
     "Pasted image 20220828220049.png",
