@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "003e445b7aea51a6",
+        "id": "ab915ed3278744d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/2-书籍笔记/CSAPP/ch11：网络编程.md",
+            "file": "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2-书籍笔记/CSAPP/ch11：网络编程.md",
+                "file": "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "003e445b7aea51a6",
+  "active": "ab915ed3278744d2",
   "lastOpenFiles": [
+    "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
+    "img/Pasted image 20220902200839.png",
+    "docs/1-课程笔记/网络编程/概述.md",
+    "img/Pasted image 20220902200812.png",
     "docs/2-书籍笔记/CSAPP/ch11：网络编程.md",
-    "docs/6-开源项目/LevelDB/概述.md",
-    "docs/4-计算机工程/分布式系统/理解protobuf的作用.md",
-    "docs/1-课程笔记/CS 106B/assign01.md",
-    "docs/index.md",
-    "docs/1-课程笔记/CSCI 0300/【Project 6】Distributed Store.md",
-    "docs/6-开源项目/概况.md",
-    "docs/6-开源项目/Sylar/概况.md",
-    "docs/6-开源项目/gRPC/00：简单跑起来.md",
-    "docs/6-开源项目/gRPC/概况.md"
+    "Pasted image 20220828220004.png",
+    "Pasted image 20220828220049.png",
+    "Pasted image 20220828220236.png",
+    "Pasted image 20220828220402.png",
+    "docs/2-书籍笔记/概况.md"
   ]
 }

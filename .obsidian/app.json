@@ -1,4 +1,8 @@
 {
   "promptDelete": false,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "attachmentFolderPath": "img",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
