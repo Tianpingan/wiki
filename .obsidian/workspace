@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab915ed3278744d2",
+        "id": "ab9e86feb43f79ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
+            "file": "docs/1-课程笔记/CS 106B/assign01.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
+                "file": "docs/1-课程笔记/CS 106B/assign01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab915ed3278744d2",
+  "active": "ab9e86feb43f79ac",
   "lastOpenFiles": [
-    "docs/1-课程笔记/网络编程/ch6：Socket编程（一）.md",
-    "docs/img/Pasted image 20220902200839.png",
+    "docs/1-课程笔记/CS 106B/assign01.md",
+    "docs/1-课程笔记/网络编程/epoll反应堆.md",
+    "docs/img/Pasted image 20220828220004.png",
+    "docs/img/Pasted image 20220828220236.png",
+    "docs/img/Pasted image 20220828221800.png",
+    "docs/img/Pasted image 20220828220402.png",
+    "docs/img/Pasted image 20220828220049.png",
+    "docs/1-课程笔记/网络编程/epoll01.md",
     "docs/1-课程笔记/网络编程/概述.md",
-    "docs/img/Pasted image 20220902200812.png",
-    "docs/2-书籍笔记/CSAPP/ch11：网络编程.md",
-    "Pasted image 20220828220004.png",
-    "Pasted image 20220828220049.png",
-    "Pasted image 20220828220236.png",
-    "Pasted image 20220828220402.png",
-    "docs/2-书籍笔记/概况.md"
+    "docs/1-课程笔记/网络编程/Lec13：Socket编程（八）.md"
   ]
 }
