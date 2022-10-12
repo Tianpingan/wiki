@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ab9e86feb43f79ac",
+        "id": "afe82323272282eb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/1-课程笔记/CS 106B/assign01.md",
+            "file": "docs/books.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265
   },
   "right": {
     "id": "3a5a34ce309d328d",
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1-课程笔记/CS 106B/assign01.md",
-                "collapseAll": false,
+                "file": "docs/books.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -95,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ab9e86feb43f79ac",
+  "active": "afe82323272282eb",
   "lastOpenFiles": [
-    "docs/1-课程笔记/CS 106B/assign01.md",
-    "docs/1-课程笔记/网络编程/epoll反应堆.md",
-    "docs/img/Pasted image 20220828220004.png",
-    "docs/img/Pasted image 20220828220236.png",
-    "docs/img/Pasted image 20220828221800.png",
-    "docs/img/Pasted image 20220828220402.png",
-    "docs/img/Pasted image 20220828220049.png",
-    "docs/1-课程笔记/网络编程/epoll01.md",
-    "docs/1-课程笔记/网络编程/概述.md",
-    "docs/1-课程笔记/网络编程/Lec13：Socket编程（八）.md"
+    "docs/books.md",
+    "docs/todo.md",
+    "docs/index.md",
+    "docs/未命名思维导图.md",
+    "docs/5-语言与工具/概况.md",
+    "docs/paper.md",
+    "docs/1-课程笔记/418/Lec2.md",
+    "docs/5-语言与工具/C++/C++ Primer/ch7：类.md",
+    "docs/5-语言与工具/C++/C++ Primer/ch6：函数.md",
+    "docs/5-语言与工具/C++/C++ Primer/未命名.md"
   ]
 }

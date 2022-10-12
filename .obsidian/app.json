@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "legacyEditor": false,
-  "attachmentFolderPath": "img",
+  "attachmentFolderPath": "docs/img",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
