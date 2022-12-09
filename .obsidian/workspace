@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/todo.md",
+            "file": "docs/3-计算机系统/操作系统/1-硬件结构.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 313,
+    "collapsed": true
   },
   "right": {
     "id": "3a5a34ce309d328d",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/todo.md",
+                "file": "docs/3-计算机系统/操作系统/1-硬件结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "afe82323272282eb",
   "lastOpenFiles": [
-    "docs/todo.md",
+    "docs/3-计算机系统/操作系统/1-硬件结构.md",
+    "docs/img/Pasted image 20221115091317.png",
+    "docs/3-计算机系统/操作系统/0-概况.md",
+    "docs/6-开源项目/概况.md",
     "docs/index.md",
-    "docs/books.md",
-    "docs/paper.md",
-    "docs/未命名思维导图.md",
-    "docs/5-语言与工具/概况.md",
-    "docs/1-课程笔记/418/Lec2.md",
-    "docs/5-语言与工具/C++/C++ Primer/ch7：类.md",
-    "docs/5-语言与工具/C++/C++ Primer/ch6：函数.md",
-    "docs/5-语言与工具/C++/C++ Primer/未命名.md"
+    "docs/6-开源项目/Sylar/协程模块.md",
+    "docs/6-开源项目/Sylar/日志模块.md",
+    "docs/6-开源项目/Sylar/概况.md",
+    "docs/note.md",
+    "docs/1-课程笔记/比特币/md.md"
   ]
 }
