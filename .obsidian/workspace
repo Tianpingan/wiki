@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/4-计算机工程/数据库系统/1-基础篇.md",
+            "file": "docs/index.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313,
-    "collapsed": true
+    "width": 313
   },
   "right": {
     "id": "3a5a34ce309d328d",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/4-计算机工程/数据库系统/1-基础篇.md",
+                "file": "docs/index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "fed8ad468028e664",
   "lastOpenFiles": [
-    "docs/4-计算机工程/数据库系统/1-基础篇.md",
-    "docs/4-计算机工程/计算机网络/1-基础篇.md",
-    "docs/6-开源项目/muduo/总体框架.md",
-    "docs/6-开源项目/muduo/概况.md",
-    "docs/6-开源项目/Sylar/协程模块.md",
-    "docs/6-开源项目/概况.md",
-    "docs/6-开源项目/Sylar/概况.md",
-    "docs/6-开源项目/Sylar/日志模块.md",
-    "docs/6-开源项目/Bustub/bustub中的智能指针.md",
-    "docs/1-课程笔记/概况.md"
+    "docs/index.md",
+    "docs/todo.md",
+    "docs/概况.md",
+    "docs/1-课程笔记/CSE 138/Lec1：.md",
+    "docs/1-课程笔记/CSCI 0300/【Project 6】Distributed Store.md",
+    "docs/1-课程笔记/CS 106L/移动语义.md",
+    "docs/1-课程笔记/网络编程/Lec9：Socket编程（四）.md",
+    "docs/1-课程笔记/网络编程/Lec7：Socket编程（二）.md",
+    "docs/2-书籍笔记/Effective/Effective C++.md",
+    "docs/2-书籍笔记/高性能服务器/chap1：TCPIP协议族.md"
   ]
 }
