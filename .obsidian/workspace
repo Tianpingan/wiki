@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
+            "file": "docs/4-开源项目/Bustub/bustub中的智能指针.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/4-开源项目/Bustub/bustub中的智能指针.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "fed8ad468028e664",
   "lastOpenFiles": [
-    "docs/index.md",
+    "docs/4-开源项目/Bustub/bustub中的智能指针.md",
+    "docs/5-面经/操作系统/1-内存管理.md",
     "docs/todo.md",
+    "docs/index.md",
     "docs/概况.md",
     "docs/1-课程笔记/CSE 138/Lec1：.md",
     "docs/1-课程笔记/CSCI 0300/【Project 6】Distributed Store.md",
     "docs/1-课程笔记/CS 106L/移动语义.md",
     "docs/1-课程笔记/网络编程/Lec9：Socket编程（四）.md",
-    "docs/1-课程笔记/网络编程/Lec7：Socket编程（二）.md",
-    "docs/2-书籍笔记/Effective/Effective C++.md",
-    "docs/2-书籍笔记/高性能服务器/chap1：TCPIP协议族.md"
+    "docs/1-课程笔记/网络编程/Lec7：Socket编程（二）.md"
   ]
 }

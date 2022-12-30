@@ -3,10 +3,10 @@ site_url: https://tianpingan.github.io/wiki/
 site_author: Tianpingan
 site_description: >-
   Tianpingan的wiki页面
-# repo_name: wiki
-# repo_url: https://github.com/tianpingan/wiki/
+repo_name: wiki
+repo_url: https://github.com/tianpingan/wiki/
 
-# copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
+copyright: Copyright &copy; 2022-present <a href="https://github.com/tianpingan" target="_blank" rel="noopener noreferrer">Tianpingan</a>
 theme:
   name: material
   language: zh
@@ -19,25 +19,25 @@ theme:
 
   features:
     - header.autohide
-    # - navigation.instant
-    # - navigation.expand
-    # - navigation.sections
+    - navigation.instant
+    - navigation.expand
+    - navigation.sections
     - navigation.tracking
     - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs.sticky
     - navigation.top
-    # - navigation.indexes
+    - navigation.indexes
     - search.highlight
     - search.share
     - search.suggest
-    # - toc.integrate
+    - toc.integrate
     - content.code.annotate
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      # primary: light blue
+      primary: light blue
       primary: Blue grey
-      # accent: deep purple
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -52,6 +52,6 @@ theme:
 plugins:
   - search:
       lang: ja
-  # - git-revision-date-localized
-  # - minify:
-      # minify_html: true
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
